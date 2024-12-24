@@ -1,9 +1,6 @@
-cv2
+opencv
 numpy
-matplotlib.pyplot
-scipy.ndimage
-skimage.segmentation
-skimage
-scipy.ndimage
-skimage.util
+matplotlib 
+scipy
+scikit-image
 gradio
