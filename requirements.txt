@@ -1,0 +1,9 @@
+cv2
+numpy
+matplotlib.pyplot
+scipy.ndimage
+skimage.segmentation
+skimage
+scipy.ndimage
+skimage.util
+gradio
